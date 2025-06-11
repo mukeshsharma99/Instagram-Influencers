@@ -8,7 +8,7 @@ The platform allows users to share photos and videos publicly or with a selected
 
 - Promote products and services
 - Share opinions and lifestyle content
-- Advocate for social, environmental, or political issues
+- Advocate for social, environmental, or political issues   
 
 Their influence can shape trends, drive consumer decisions, and even impact societal behavior.
 
