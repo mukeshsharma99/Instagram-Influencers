@@ -16,7 +16,7 @@ Their influence can shape trends, drive consumer decisions, and even impact soci
 
 This dataset provides information about various Instagram influencers. It includes several fields that capture key attributes and engagement metrics relevant to understanding the influencers' reach and impact.
 
-### Example Fields (may vary based on dataset):
+### Example Fields (may vary based on dataset):  
 - `Username`
 - `Followers`
 - `Following`
