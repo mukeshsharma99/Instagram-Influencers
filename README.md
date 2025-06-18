@@ -6,7 +6,7 @@
 
 The platform allows users to share photos and videos publicly or with a selected group of followers. Over the years, Instagram has evolved into a powerful medium for influencing public opinion and behavior. Individuals with large followings, known as **influencers**, often use their platforms to:
 
-- Promote products and services
+- Promote products and services  
 - Share opinions and lifestyle content
 - Advocate for social, environmental, or political issues   
 
