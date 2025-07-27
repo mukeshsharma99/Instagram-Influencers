@@ -1,7 +1,7 @@
 # Instagram Influencers Dataset 
 
 ## Overview
-
+ 
 **Instagram** is a popular American photo and video sharing social networking platform. It was launched in 2010 by **Kevin Systrom** and **Mike Krieger**, and later acquired by **Facebook Inc.**—now known as **Meta Platforms**.
 
 The platform allows users to share photos and videos publicly or with a selected group of followers. Over the years, Instagram has evolved into a powerful medium for influencing public opinion and behavior. Individuals with large followings, known as **influencers**, often use their platforms to: 
